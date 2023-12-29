@@ -29,7 +29,7 @@
 
 |             Method              | Kvasir Instrument |       | Rigid Instruments |       | Endoscopic |       |
 | :-----------------------------: | :---------------: | :---: | :---------------: | :---: | :--------: | :---: |
-|                                 |       Dice        |  IoU  |       Dice        |  IoU  |    Dice    |  IoU  |
+|                                 |       **Dice**        |  **IoU**  |       **Dice**        |  **IoU**  |    **Dice**    |  **IoU**  |
 | DA-ResUNet++ + Otsu's threshold |       0.962       | 0.912 |       0.901       | 0.830 |   0.910    | 0.813 |
 
 ### Comparison with other methods on Kvasir Instrument dataset
